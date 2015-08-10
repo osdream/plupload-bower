@@ -1,0 +1,25 @@
+{
+  "name": "plupload-bower",
+  "version": "0.0.1",
+  "authors": [
+    "osdream <osdream.song@gmail.com>"
+  ],
+  "description": "plupload bower version",
+  "main": "plupload.full.min.js",
+  "keywords": [
+    "plupload",
+    "bower"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/osdream/plupload-bower.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

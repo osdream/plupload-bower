@@ -1,6 +1,6 @@
 {
-  "name": "plupload-bower",
-  "version": "0.0.1",
+  "name": "plupload-dist",
+  "version": "0.0.2",
   "authors": [
     "osdream <osdream.song@gmail.com>"
   ],
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/osdream/plupload-bower.git"
+    "url": "git://github.com/osdream/plupload-dist.git"
   },
   "license": "MIT",
   "ignore": [
